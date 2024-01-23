@@ -13,11 +13,17 @@ To reproduce the distances between planets we use JPL ephemeris DE421 (covers 19
 Requirements 
 
 numpy 
-cobaya \\
-getdist \\
-skyfield \\
-datetime \\
-matplotlib \\
+
+cobaya
+
+getdist
+
+skyfield
+
+datetime
+
+matplotlib
+
 
 
 
