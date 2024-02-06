@@ -20,7 +20,7 @@ Requirements
     matplotlib
 
 
-For more information look at the following paper
+For more information look at the following paper : https://arxiv.org/abs/2401.13043
 
     @article{ansarifard2024jovian,
       title={Jovian Signal at BOREXINO},
