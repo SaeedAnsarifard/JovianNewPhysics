@@ -1,6 +1,6 @@
 # JovianNewPhysics
 
-This is a code to reproduce the result of the work ...
+This is a code to reproduce the result of the work https://arxiv.org/abs/2401.13043
 
 
 The data is collected from
