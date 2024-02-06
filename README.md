@@ -22,6 +22,17 @@ skyfield
 
 datetime
 
+
+
+For more information look at the following paper
+
+@article{ansarifard2024jovian,
+  title={Jovian Signal at BOREXINO},
+  author={Ansarifard, Saeed and Farzan, Yasaman},
+  journal={arXiv preprint arXiv:2401.13043},
+  year={2024}
+}
+
 matplotlib
 
 
